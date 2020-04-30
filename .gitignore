@@ -1,0 +1,9 @@
+/ios/*
+/android/*
+/build/*
+/Payload/*
+/test/*
+Payload.ipa
+*.lock
+/.dart_tool/*
+
