@@ -146,6 +146,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///Users/liuyang/devTools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "flutter_sound",
       "rootUri": "file:///Users/liuyang/devTools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_sound-2.0.3",
       "packageUri": "lib/",
@@ -184,6 +190,18 @@
     {
       "name": "image",
       "rootUri": "file:///Users/liuyang/devTools/flutter/.pub-cache/hosted/pub.dartlang.org/image-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///Users/liuyang/devTools/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.6+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///Users/liuyang/devTools/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_platform_interface-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -338,7 +356,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-04-27T09:35:15.344728Z",
+  "generated": "2020-05-05T06:35:04.596262Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
